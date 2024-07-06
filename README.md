@@ -54,3 +54,20 @@ Sağlıklı yaşam ve beslenme hedeflerinizi hatırlatan motivasyon bildirimleri
 - **Teknoloji ve Sağlık Meraklıları:** Yeni teknolojilerle sağlıklı yaşam çözümleri arayan bireyler.
 
 - **Yoğun İş Hayatına Sahip Olanlar:** Zaman kısıtlamaları nedeniyle hızlı ve etkili bir şekilde beslenme takibi yapmak isteyen çalışan profesyoneller.
+  # Product Backlog URL
+  # Jüriye not:
+---
+# Sprint 1
+- **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan TAMAMLAMICAM
+  
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+  
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır: 
+
+
+
+  
