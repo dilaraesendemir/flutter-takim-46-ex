@@ -7,6 +7,50 @@ Takım Flutter 42
 - Berkay Tüysüz: Aktif olmaya çalışan üye?
 - Beyza Sena Erkoç: Aktif olmayan üye?
 # Ürün İsmi
---DietBişi--
+--SeeEat--
 # Ürün Açıklaması
-SeeEat ile sağlıklı yaşam ve beslenme hedeflerinize kolayca ulaşın! Bu yenilikçi uygulama, yediğiniz yemeğin fotoğrafını taratarak anında kalori ve besin değerlerini öğrenmenizi sağlar. Tükettiğiniz yiyecekleri sabah, öğle veya akşam yemeği olarak sınıflandırarak yeme alışkanlıklarınızı daha iyi analiz edebilir ve günlük, haftalık veya aylık kalori alımınızı kolayca takip edebilirsiniz. Protein, karbonhidrat ve yağ gibi önemli besin elementlerini görüntüleyerek beslenme alışkanlıklarınızı iyileştirin. Diyetisyenlerin ve fit kalmak isteyenlerin işini kolaylaştıran ayrıntılı raporlarla kalori alımınızı kontrol altında tutun. Hem diyet yapanlar hem de sağlıklı beslenmek isteyenler için ideal bir yardımcı olan SeeEat, sağlıklı bir yaşama adım atmanızı sağlar. Diyetisyenlerin de hastalarına yönelik beslenme planlarını daha etkin yönetmelerine katkı sağlayarak beslenme alışkanlıklarınızı kontrol altına almanıza ve hedeflerinize ulaşmanıza yardımcı olur.
+Sağlıklı yaşam ve beslenme hedeflerinize ulaşmanın daha kolay ve etkili bir yolunu sunmak istiyoruz. SeeEat, insanların sağlıklı bir yaşam tarzını benimsemelerine ve sürdürülebilir bir şekilde beslenme alışkanlıklarını iyileştirmelerine yardımcı olmak için var.
+
+SeeEat, yediğiniz yemeğin fotoğrafını taratarak anında kalori ve besin değerlerini öğrenmenizi sağlar. Tükettiğiniz yiyecekleri sabah, öğle veya akşam yemeği olarak sınıflandırarak yeme alışkanlıklarınızı daha iyi analiz etmenizi ve günlük, haftalık veya aylık kalori alımınızı kolayca takip etmenizi sağlar. Protein, karbonhidrat ve yağ gibi önemli besin elementlerini görüntüleyerek beslenme alışkanlıklarınızı iyileştirmenize yardımcı olur.
+
+SeeEat, diyetisyenlerin ve fit kalmak isteyenlerin işini kolaylaştıran ayrıntılı raporlar sunar, kalori alımınızı kontrol altında tutar. Hem diyet yapanlar hem de sağlıklı beslenmek isteyenler için ideal bir yardımcı olan SeeEat, sağlıklı bir yaşama adım atmanızı sağlar. Diyetisyenlerin hastalarına yönelik beslenme planlarını daha etkin yönetmelerine katkı sağlayarak beslenme alışkanlıklarınızı kontrol altına almanıza ve hedeflerinize ulaşmanıza yardımcı olur.
+
+SeeEat – Sağlıklı yaşamın yeni adı.
+# Ürün Özellikleri
+- Fotoğraf ile Kalori Hesaplama:
+Yediğiniz yemeğin fotoğrafını taratarak anında kalori ve besin değerlerini öğrenin. Protein, karbonhidrat ve yağ gibi önemli besin elementlerini kolayca görüntüleyin.
+
+- Yemek Zamanı Sınıflandırması:
+Tükettiğiniz yiyecekleri sabah, öğle veya akşam yemeği olarak sınıflandırın. Bu özellik, yeme alışkanlıklarınızı daha iyi analiz etmenizi sağlar.
+
+- Günlük, Haftalık ve Aylık Takip:
+Günlük, haftalık veya aylık kalori alımınızı kolayca takip edin. Bu sayede diyetinizi daha verimli yönetebilir ve beslenme alışkanlıklarınızı iyileştirebilirsiniz.
+
+- Diyetisyen ve Fitness Desteği:
+Diyetisyenlerin ve fit kalmak isteyenlerin işini kolaylaştıran ayrıntılı raporlarla kalori alımınızı kontrol altında tutun. Sağlıklı yaşama adım atın.
+
+- Sağlıklı Yemek Tarifleri:
+Lezzetli ve sağlıklı yemek tarifleri ile beslenmenizi çeşitlendirin. Diyetinizi lezzetli kılın.
+
+- Bloglar:
+Beslenme, diyet ve sağlıklı yaşam üzerine yazılmış bloglarla bilgilendirin ve ilham alın.
+
+- Motivasyon Bildirimleri:
+Sağlıklı yaşam ve beslenme hedeflerinizi hatırlatan motivasyon bildirimleri ile hedeflerinize ulaşmak için sürekli destek alın.
+
+# Hedef Kitle 
+- **Sağlıklı Beslenmek İsteyenler:** Sağlıklı yaşam tarzını benimseyen, beslenme alışkanlıklarını iyileştirmek isteyen bireyler.
+
+- **Diyet Yapanlar:** Kilo vermek veya belirli bir diyet programını takip eden kişiler.
+
+- **Diyetisyenler ve Beslenme Uzmanları:** Hastalarının beslenme alışkanlıklarını daha etkin bir şekilde yönetmek isteyen profesyoneller.
+
+- **Fitness Tutkunları:** Egzersiz programlarını desteklemek için beslenme takibi yapan sporcular ve fitness meraklıları.
+
+- **Sağlık Sorunları Olanlar:** Diyabet, hipertansiyon veya diğer beslenme ile ilgili sağlık sorunları olan ve beslenmelerini dikkatle izlemeleri gereken bireyler.
+
+- **Aileler ve Ebeveynler:** Çocuklarının sağlıklı beslenmesini sağlamak isteyen ebeveynler.
+
+- **Teknoloji ve Sağlık Meraklıları:** Yeni teknolojilerle sağlıklı yaşam çözümleri arayan bireyler.
+
+- **Yoğun İş Hayatına Sahip Olanlar:** Zaman kısıtlamaları nedeniyle hızlı ve etkili bir şekilde beslenme takibi yapmak isteyen çalışan profesyoneller.
