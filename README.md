@@ -69,7 +69,7 @@ Sağlıklı yaşam ve beslenme hedeflerinizi hatırlatan motivasyon bildirimleri
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır. !!!!!!!!!!!!!
+- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır. [Sprint 1 Daily Scrum Chats](https://www.notion.so/F-46-Daily-Scrum-47ab7eb048864d10ac59e19a60aba947?pvs=4)
 
 - **Sprint board update:** Sprint board screenshotları: <img width="1017" alt="image" src="https://github.com/dilaraesendemir/flutter-takim-46/assets/157923740/af9491b0-a91d-496c-acfe-4b57ed3952f1">
 
