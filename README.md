@@ -1,6 +1,6 @@
-## Takım İsmi
+# Takım İsmi
 Takım Flutter 46
-## Ürün İle İlgili Bilgiler
+# Ürün İle İlgili Bilgiler
 # Takım Elemanları
 - Dilara Esendemir: Scrum Master / Product Owner / Developer
 - Arjen Tüysüz: Developer?
