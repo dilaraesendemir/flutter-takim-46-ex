@@ -55,10 +55,12 @@ Sağlıklı yaşam ve beslenme hedeflerinizi hatırlatan motivasyon bildirimleri
 
 - **Yoğun İş Hayatına Sahip Olanlar:** Zaman kısıtlamaları nedeniyle hızlı ve etkili bir şekilde beslenme takibi yapmak isteyen çalışan profesyoneller.
   # Product Backlog URL
+  [Flutter Team 46 Miro Backlog Board 1.Sprint](https://miro.com/welcomeonboard/MUlQdFBzdUliZ3VsOXFHQzlKNzVzZVJlMkwzVU1SSlNCTlZQR2s0cFR5SThBTG1ZWGRaUURSNTh1RkphOHhoNnwzNDU4NzY0NTk0MDcyNDk2OTI1fDI=?share_link_id=856594209566)
+  
   # Jüriye not:
 ---
 # Sprint 1
-- **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan TAMAMLAMICAM
+- **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan 
   
 - **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
   
@@ -66,7 +68,12 @@ Sağlıklı yaşam ve beslenme hedeflerinizi hatırlatan motivasyon bildirimleri
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır: 
+- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır.
+
+- **Sprint board update:** Sprint board screenshotları: <img width="1017" alt="image" src="https://github.com/dilaraesendemir/flutter-takim-46/assets/157923740/af9491b0-a91d-496c-acfe-4b57ed3952f1">
+
+- **Ürün Durumu: Ekran görüntüleri:**
+
  
 
 
