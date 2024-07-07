@@ -67,7 +67,7 @@ Sağlıklı yaşam ve beslenme hedeflerinizi hatırlatan motivasyon bildirimleri
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır: 
-
+ 
 
 
   
