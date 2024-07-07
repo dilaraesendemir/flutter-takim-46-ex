@@ -74,6 +74,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken kı
 - **Sprint board update:** Sprint board screenshotları: <img width="1017" alt="image" src="https://github.com/dilaraesendemir/flutter-takim-46/assets/157923740/af9491b0-a91d-496c-acfe-4b57ed3952f1">
 
 - **Ürün Durumu: Ekran görüntüleri:**
+  
+- **Sprint Review:** Alınan kararlar: Kullanıcı giriş ve kayıt sayfaları kodlanacak, firebase kurulumu yapılacak, uygulama için veritabanı olarak firebase servisleri aktif edilecek ve eksiklikler değerlendirilecektir. Kullanıcıların SeeEat uygulamasının içeriğine dair bilgi edinmelerini sağlayan onboarding sayfası yapılmıştır. Diğer sprintlerde planlama konusunda dikatli olma kararı alınmıştır. Sprint Review katılımcıları: Dilara Esendemir.
+
+- **Sprint Retrospective:**
+  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğinden emin olunmalı.
+  - Kodlamaya verilen zaman arttırılmalı ve developerlar hızlanmalı.
+  - Gelecek sprintte takım üyeleri daha fazla aktif olmalı.
+    
 
  
 
