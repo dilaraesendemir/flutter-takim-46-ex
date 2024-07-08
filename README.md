@@ -61,7 +61,7 @@ Sağlıklı yaşam ve beslenme hedeflerinizi hatırlatan motivasyon bildirimleri
  # Jüriye not:
 ---
 # Sprint 1
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint Notları**: Kullanıcı arayüzü için daha uygun olacak şekilde renkler güncellenmiştir.
   
 - **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan 
   
