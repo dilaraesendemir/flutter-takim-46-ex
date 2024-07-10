@@ -3,9 +3,9 @@ Takım Flutter 46
 # Ürün İle İlgili Bilgiler
 # Takım Elemanları
 - Dilara Esendemir: Scrum Master / Product Owner / Developer
-- Arjen Tüysüz: Developer?
-- Berkay Tüysüz: Aktif olmaya çalışan üye?
-- Beyza Sena Erkoç: Aktif olmayan üye?
+- Arjen Tüysüz: Developer
+- Berkay Tüysüz: Aktif üye
+- Beyza Sena Erkoç: Developer
 # Ürün İsmi
 --SeeEat--
 # Ürün Açıklaması
