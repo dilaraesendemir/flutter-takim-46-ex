@@ -77,8 +77,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken kı
 
 - **Ürün Durumu: Ekran görüntüleri:** <img width="912" alt="image" src="https://github.com/dilaraesendemir/flutter-takim-46/assets/157923740/750fa06a-7258-4c20-bfa0-daf742dcce81"> <img width="683" alt="image" src="https://github.com/dilaraesendemir/flutter-takim-46/assets/157923740/926780d6-6afa-42f8-83aa-43b109d4ff6f">
 
-
-  
 - **Sprint Review:** Alınan kararlar: Kullanıcı giriş ve kayıt sayfaları kodlanacak, firebase kurulumu yapılacak, uygulama için veritabanı olarak firebase servisleri aktif edilecek ve eksiklikler değerlendirilecektir. Kullanıcıların SeeEat uygulamasının içeriğine dair bilgi edinmelerini sağlayan onboarding sayfası yapılmıştır. Diğer sprintlerde planlama konusunda dikatli olma kararı alınmıştır. Sprint Review katılımcıları: Dilara Esendemir.
 
 - **Sprint Retrospective:**
@@ -86,6 +84,29 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken kı
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğinden emin olunmalı.
   - Kodlamaya verilen zaman arttırılmalı ve developerlar hızlanmalı.
   - Gelecek sprintte takım üyeleri daha fazla aktif olmalı.
+ ---
+# Sprint 2
+- **Sprint içinde tamamlanması tahmin edilen puan:** 120 Puan
+  
+- **Sprint notları:** Ürün özelleri arttırıldı, renk paleti netleştirildi.
+  
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 120 puan ile değerlendirilmesine karar verildi.
+  
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz 1. Sprint sonrası yapılması gereken story'lere göre düzenlenmiştir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro'da gözüken mavi item'lar story'leri temsil etmektedir ve işler (task) görevler başlığı altında story'lerin hemen altında görevler başlığı ile tutulmuştur.
+
+- **Daily Scrum:** Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği Notion linki olarak Readme'de tarafımızdan paylaşılmaktadır: **!!!!!!!!**
+ 
+- **Sprint board update:** Sprint board screenshotları:
+
+Backlog 2 
+ss
+- **Ürün Durumu:** Ekran görüntüleri:
+  
+- **Sprint Review:**
+  
+- **Sprint Retrospective:**
+  
     
 
  
